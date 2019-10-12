@@ -1,2 +1,2 @@
 # SFML
-This folder contains projects mae by SFML
+This folder contains projects made by SFML
